@@ -24,5 +24,8 @@ models/
 
 catboost_info/
 
+# 노트북 실행 시 자동 다운로드되는 데이터셋
+data/
+
 
 
